@@ -1,6 +1,6 @@
 {
   "name": "list-query-filter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight query builder for filtering, sorting, and paginating arrays of objects — ORM-style in pure JavaScript.",
   "main": "index.js",
   "repository": {
