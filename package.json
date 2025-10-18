@@ -3,6 +3,14 @@
   "version": "1.0.0",
   "description": "A lightweight query builder for filtering, sorting, and paginating arrays of objects — ORM-style in pure JavaScript.",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AyanUpadhaya/list-query-filter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AyanUpadhaya/list-query-filter/issues"
+  },
+  "homepage": "https://github.com/AyanUpadhaya/list-query-filter#readme",
   "keywords": [
     "query",
     "filter",
@@ -11,7 +19,6 @@
     "mini-orm",
     "data-filter"
   ],
-  
   "author": "Ayan Upadhaya ayanu881@gmail.com",
   "license": "MIT"
 }
